@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI Research Scientist at Axon in Boston. I work on trustworthy natural language processing and large language models, combining data-efficient training, human-centered feedback, and domain-adaptive reasoning. The applications I care about are legal reasoning, biomedical discovery, personalized education, and public safety.
+I am an AI Research Scientist II at Axon in Boston. I work on trustworthy natural language processing and large language models, combining data-efficient training, human-centered feedback, and domain-adaptive reasoning. The applications I care about are legal reasoning, biomedical discovery, personalized education, and public safety.
 
-I received my Ph.D. in Computer Science from Worcester Polytechnic Institute in May 2026, advised by Xiaozhong Liu. My dissertation is *Advancing the Proactive Capacity of LLMs in Cost-Sensitive Domains*. Before that, I earned an M.P.S. in Analytics from Northeastern University and a B.S. in Material Engineering from Wuhan University.
+I received my Ph.D. in Computer Science from Worcester Polytechnic Institute in May 2026, advised by Professor Xiaozhong Liu. My dissertation is *Advancing the Proactive Capacity of LLMs in Cost-Sensitive Domains*. Before that, I earned an M.P.S. in Analytics from Northeastern University and a B.S. in Material Engineering from Wuhan University.
 
 Research
 ======

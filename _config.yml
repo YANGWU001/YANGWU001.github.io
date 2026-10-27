@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yang Wu"
 title_separator          : "-"
 name                     : &name "Yang Wu"
-description              : &description "Yang Wu is an AI Research Scientist at Axon working on trustworthy NLP and proactive large language models."
+description              : &description "Yang Wu is an AI Research Scientist II at Axon working on trustworthy NLP and proactive large language models."
 url                      : https://yangwu001.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YANGWU001/YANGWU001.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yang Wu"
   pronouns         :
-  bio              : "AI Research Scientist at Axon. Ph.D. in Computer Science, Worcester Polytechnic Institute."
+  bio              : "AI Research Scientist II at Axon. Ph.D. in Computer Science, Worcester Polytechnic Institute."
   location         : "Boston, MA"
   employer         : "Axon"
   uri              :
@@ -145,7 +145,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : og-image.png   # Social media default site image (lives in /images/)
-og_description           : "Yang Wu, AI Research Scientist at Axon. Trustworthy NLP and proactive large language models."
+og_description           : "Yang Wu, AI Research Scientist II at Axon. Trustworthy NLP and proactive large language models."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
