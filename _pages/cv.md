@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D. in Computer Science, Worcester Polytechnic Institute, Worcester, MA, May 2026
   * Dissertation: *Advancing the Proactive Capacity of LLMs in Cost-Sensitive Domains*
-  * Advisor: Xiaozhong Liu
+  * Advisor: Professor Xiaozhong Liu
 * M.P.S. in Analytics, Northeastern University, Boston, MA, Apr 2021
 * B.S. in Material Engineering, Wuhan University, Wuhan, China, Jun 2018
 
